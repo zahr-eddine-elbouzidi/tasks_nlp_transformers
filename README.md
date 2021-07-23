@@ -1,12 +1,12 @@
 ## NLP Tasks with Transformers using HuggingFace
-Sentiment analysis
-Text generation
-Name entity recognition (NER)
-Question answering
-Filling masked text
-Summarization
-Translation
-Feature extraction
+- Sentiment analysis
+- Text generation
+- Name entity recognition (NER)
+- Question answering
+- Filling masked text
+- Summarization
+- Translation
+- Feature extraction
 
 
 ## Std : ZAHR-EDDINE EL BOUZIDI
